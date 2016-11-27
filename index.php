@@ -8,6 +8,8 @@ if (filesize('db.sqlite')==0){
 
 ksldnfkldsnfs
 
+3 kommit
+
 <form metod >
 
 $name = $_GET($name);
