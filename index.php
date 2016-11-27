@@ -8,7 +8,7 @@ if (filesize('db.sqlite')==0){
 
 ksldnfkldsnfs
 
-3 kommit
+4 commit
 
 <form metod >
 
