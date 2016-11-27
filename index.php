@@ -6,6 +6,8 @@ if (filesize('db.sqlite')==0){
 
 }
 
+ksldnfkldsnfs
+
 <form metod >
 
 $name = $_GET($name);
